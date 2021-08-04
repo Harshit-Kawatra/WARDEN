@@ -14,6 +14,7 @@ Functionality of W.A.R.D.E.N. :
 
 4.Give PC Status
 
-5.Tell events on any upcoming dates
+5.Tell events on any upcoming dates #need to add credentials.json from Google Calender API for this feature to work
+
 
 
